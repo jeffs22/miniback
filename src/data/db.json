@@ -1,0 +1,30 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "description": "universidad",
+            "price": 200000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "description": "trabajo",
+            "price": 100000000,
+            "type": "ingreso"
+        },
+
+        {
+            "id": 3,
+            "description": "viaje",
+            "price": 400000000,
+            "type": "gasto"
+        },
+
+        {
+            "id": 4,
+            "description": "mercado",
+            "price": 50000,
+            "type":"gasto"
+        }
+    ]
+}
